@@ -1,0 +1,13 @@
+{
+    "objects": {
+        "FF0000": "graphics/objects/300blueMushroom.png",
+        "00FF00": "graphics/objects/300deadTree.png",
+        "FFFF00": "graphics/objects/300redRock.png",
+        "FF00FF": "graphics/objects/bench1.png",
+        "00FFFF": "graphics/objects/bench2.png",
+        "007FFF": "graphics/objects/fountain.png",
+        "7F00FF": "graphics/objects/tree.png"
+    },
+    "tile_base": "graphics/tilemap/normal",
+    "transparent": "graphics/tilemap/transparent.png"
+}
