@@ -6,8 +6,9 @@
         "FF00FF": "graphics/objects/bench1.png",
         "00FFFF": "graphics/objects/bench2.png",
         "007FFF": "graphics/objects/fountain.png",
-        "7F00FF": "graphics/objects/tree.png"
+        "7F00FF": "graphics/objects/tree.png",
+        "7F7FFF": "graphics/objects/school.png"
     },
-    "tile_base": "graphics/tilemap/normal",
+    "tile_base": "graphics/tilemap/magical",
     "transparent": "graphics/tilemap/transparent.png"
 }

@@ -175,10 +175,31 @@
         "slash_fire_16": "graphics/tmp/effect/slash_fire16.png",
         "cat_1": "graphics/drive/character/enemy/cat/1.png",
         "cat_2": "graphics/drive/character/enemy/cat/2.png",
-        "cat_3": "graphics/drive/character/enemy/cat/3.png"
+        "cat_3": "graphics/drive/character/enemy/cat/3.png",
+        "kubey": "graphics/drive/character/npc/kubey.png"
     },
-    "texture_scale": {},
+    "texture_scale": {
+        "graphics/objects/school.png": 4,
+        "graphics/objects/bench1.png": 2,
+        "graphics/objects/bench2.png": 2
+    },
     "animations": {
+        "kubey": {
+            "textures": [
+                "kubey"
+            ],
+            "width": 80,
+            "height": 80,
+            "interval_ms": 160
+        },
+        "player_animation": {
+            "textures": [
+                "player"
+            ],
+            "width": 80.0,
+            "height": 80,
+            "interval_ms": 200.0
+        },
         "fire_ball_red_front_animation": {
             "textures": [
                 "fire_ball_red_front_1",
